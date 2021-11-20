@@ -1,3 +1,3 @@
 <?php
-    define('ROOT_URL','http://localhost/phpsandbox/LABDA10/');
+    define('ROOT_URL','http://localhost/phpsandbox/Address_book/');
 ?>
